@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @amitkumar-niranjan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...[amitsoni.ai.bea@gmail.com]
-
-<!---
-amitkumar-niranjan/amitkumar-niranjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/query-monitor.svg?style=flat-square)](https://wordpress.org/plugins/query-monitor/)
+[![License](https://img.shields.io/badge/license-GPL_v2%2B-blue.svg?style=flat-square)](http://opensource.org/licenses/GPL-2.0)
+[![React JS Tested](https://img.shields.io/badge/React%20JS-updates-blue?style=flat-square)](https://wordpress.org/plugins/query-monitor/)
+[![Drupal Tested](https://img.shields.io/badge/Drupal-updates-blue?style=flat-square)](https://wordpress.org/plugins/query-monitor/)
+[![WordPress Tested](https://img.shields.io/wordpress/v/query-monitor.svg?style=flat-square)](https://wordpress.org/plugins/query-monitor/)
+[![Build Status](https://img.shields.io/github/workflow/status/johnbillion/query-monitor/Test/develop?style=flat-square)](https://github.com/johnbillion/query-monitor/actions)
