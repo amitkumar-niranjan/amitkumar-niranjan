@@ -1,7 +1,7 @@
 
-# Project Title
+# 🚀 About Me
 
-Overall 11+ Years of Industry Experience in Software and Web Application development... 
+Overall 11+ Years of Industry Experience in Software and Web Application development (I'm a full stack developer)... 
 
 
 ## Badges
@@ -19,10 +19,6 @@ Overall 11+ Years of Industry Experience in Software and Web Application develop
   Single LL
   Doubly Linked List
 
-
-
-## 🚀 About Me
-I'm a full stack developer...
 
 
 ## 🛠 Skills
