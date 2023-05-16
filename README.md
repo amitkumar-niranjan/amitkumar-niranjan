@@ -14,10 +14,20 @@ Overall 11+ Years of Industry Experience in Software and Web Application develop
 
 ## DSA in ES6 Problems and Solutions:
 
+- BitWise Operator
 - Array 1D & 2D
+- Prefix Sum
+- Sub Array
+- Two Pointers
+- HashMap
+- Sorting
+- Z- Algorithm
+- String Pattern Matching
+ --Binary Search
 - Linked List [LL]
-  Single LL
-  Doubly Linked List
+  --Singly LL
+  --Doubly Linked List
+- Recursion
 
 
 
