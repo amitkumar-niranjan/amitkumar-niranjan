@@ -30,6 +30,16 @@ Overall 11+ Years of Industry Experience in Software and Web Application develop
 - Recursion
 
 
+## ES6 Car Racing 2D Game Project
+
+User Interface and Features:
+- Click to start 
+- Collison detection 
+- Live Score Counter
+- Car Direction using left, right, up, down arrow key
+
+
+
 
 ## 🛠 Skills
 Next.js, ES6, React.js, Node.js, Express.js, MongoDB, Javascript, HTML, CSS, PHP 8.0, MySql, Java, Drupal, Android Studio, Wordpress 6.0, Laravel, MVC Framework, Cascaded Framework, Jira, Agile practices, VS Code...  
