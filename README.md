@@ -22,7 +22,10 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 
-## Authors
+## 🚀 About Me
+I'm a full stack developer...
 
-- [@amitkumar-niranjan](https://github.com/amitkumar-niranjan)
+
+## 🛠 Skills
+ES6, React.js, Node.js, Express.js, MongoDB, Javascript, HTML, CSS, PHP 8.0, Java, Drupal, Android Studio, Wordpress 6.0, Laravel, MVC Framework, Cascaded Framework, Jira, Agile, VS Code...  
 
